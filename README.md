@@ -1,1 +1,1 @@
-# ASTRUN3273
+# ASTRUN3273: High Energy Astrophysics
